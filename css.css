@@ -1,0 +1,41 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
+
+body {
+  background: #222;
+  color: #fff;
+  padding: 20px;
+}
+h1 {
+  font-size: 80px;
+  padding: 1%;
+  padding-bottom: 0;
+}
+textarea {
+  width: 48%;
+  margin: 1%;
+  height: 100px;
+  margin-top: 0;
+  border: none;
+  background: #444;
+  padding: 10px;
+  font-size: 25px;
+  color: #fff;
+}
+#normal {
+  margin-right: 0%;
+}
+.main {
+  width: 800px;
+  height: 210px;
+  position: absolute;
+  margin: auto;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+}
